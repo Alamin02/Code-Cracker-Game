@@ -1,5 +1,4 @@
 # Code Cracker Game
-=============
 This is a tiny javascript game made as a pastime.
 The rules are simple and they are as follows -
 
